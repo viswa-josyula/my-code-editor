@@ -1,2 +1,1 @@
-# my-code-editor
-Small Code Editor for HTML/CSS/JS
+# Browser Based Code Editor
